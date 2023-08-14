@@ -1,3 +1,3 @@
 function love.draw()
-    love.graphics.print("hello")
+    love.graphics.print("hello world")
 end
